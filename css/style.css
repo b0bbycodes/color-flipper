@@ -140,6 +140,11 @@ nav {
     font-size: 25px;
   }
 
+  .mobile-links .link1{
+    color: red;
+    
+  }
+
   .container h1 {
     font-size: 24px;
     padding: 2.5rem 0.9rem;
